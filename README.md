@@ -1,5 +1,7 @@
 # Personal Portfolio Website
-![Website Link]([https://chriswu.netlify.app])
+![image](src/assets/ex1.PNG)
+![image](src/assets/ex2.PNG)
+![image](src/assets/ex3.PNG)
 
 ### Practiced with: 
 > - ReactJS (Stat/Effect)
