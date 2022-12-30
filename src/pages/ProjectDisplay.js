@@ -16,10 +16,10 @@ function ProjectDisplay() {
       <b>Skills:</b> {project.skills}
     </p>
     <p>
-        <a href={project.demo}> 
+        <a href={project.demo} target="_blank" rel="noreferrer"> 
             <OpenInBrowserIcon /> 
         </a>
-        <a href={project.github}> 
+        <a href={project.github} target="_blank" rel="noreferrer"> 
             <GitHubIcon /> 
         </a>
     </p>

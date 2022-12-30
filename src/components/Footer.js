@@ -9,10 +9,10 @@ function Footer() {
   return (
     <div className="footer">
         <div className="socialMedia">
-            <a href="https://www.instagram.com/chisswu/?hl=en"> <InstagramIcon /> </a>
-            <a href="https://www.facebook.com/M3M3zzz"> <FacebookIcon /> </a>
-            <a href="https://github.com/ChrisWu989"> <GitHubIcon /> </a>
-            <a href="https://www.linkedin.com/in/chriswu989/"> <LinkedInIcon /> </a>
+            <a href="https://www.instagram.com/chisswu/?hl=en" target="_blank" rel="noreferrer"> <InstagramIcon /> </a>
+            <a href="https://www.facebook.com/M3M3zzz" target="_blank" rel="noreferrer"> <FacebookIcon /> </a>
+            <a href="https://github.com/ChrisWu989" target="_blank" rel="noreferrer"> <GitHubIcon /> </a>
+            <a href="https://www.linkedin.com/in/chriswu989/" target="_blank" rel="noreferrer"> <LinkedInIcon /> </a>
         </div>
         <p> &copy; Chris Wu All rights reserved. 2022  </p>
     </div>
