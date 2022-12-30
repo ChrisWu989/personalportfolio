@@ -34,7 +34,7 @@ function Home() {
           <li className="item">
             <h2>Tech/Frameworks</h2>
             <span>
-              Git, VSCode, ReactJS, HTML, CSS, BootStrap, NodeJS, Bash, Django, Vim, Mathematica
+              Git, VSCode, ReactJS, HTML, CSS, BootStrap, NodeJS, Bash, Django, Flask, Vim, Mathematica
             </span>
           </li>
           <li className="item">
