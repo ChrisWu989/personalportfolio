@@ -8,8 +8,8 @@ export const ProjectList = [
         image: Portfolio,
         description: "Personal Website",
         skills: "ReactJS, NodeJS, CSS, HTML",
-        github: "https://replit.com/@ChrisWu989/guess-the-number#main.py",
-        demo: "https://guess-the-number.chriswu989.repl.co"
+        github: "https://github.com/ChrisWu989/personalportfolio",
+        demo: "https://chriswu.netlify.app"
     },
     {
         name: "API Recipe Finder",
