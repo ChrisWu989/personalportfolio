@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-![Website Link]([chriswu.netlify.app])
+![Website Link]([https://chriswu.netlify.app])
 
 ### Practiced with: 
 > - ReactJS (Stat/Effect)
