@@ -14,7 +14,7 @@ function Footer() {
             <a href="https://github.com/ChrisWu989"> <GitHubIcon /> </a>
             <a href="https://www.linkedin.com/in/chriswu989/"> <LinkedInIcon /> </a>
         </div>
-        <p> &copy; Chris Wu 2022  </p>
+        <p> &copy; Chris Wu All rights reserved. 2022  </p>
     </div>
   )
 }
