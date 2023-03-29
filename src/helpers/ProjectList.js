@@ -1,6 +1,7 @@
 import Recipe from "../assets/recipe.PNG";
 import Number from "../assets/number.PNG";
 import Portfolio from "../assets/Portfolio.PNG";
+import Dog from "../assets/dog.PNG";
 
 export const ProjectList = [
     {
@@ -26,5 +27,13 @@ export const ProjectList = [
         skills: "Python, Flask, CSS, HTML",
         github: "https://replit.com/@ChrisWu989/guess-the-number#main.py",
         demo: "https://guess-the-number.chriswu989.repl.co"
+    },
+    {
+        name: "Dog Generator",
+        image: Dog,
+        description: "Practicing Databases and Sessions with Python",
+        skills: "Python, Flask, CSS, HTML, Sessions/Cookies",
+        github: "https://replit.com/@ChrisWu989/RandomDog#main.py",
+        demo: "https://randomdog.chriswu989.repl.co"
     }
 ];
