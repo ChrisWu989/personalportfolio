@@ -2,6 +2,7 @@ import Recipe from "../assets/recipe.PNG";
 import Number from "../assets/number.PNG";
 import Portfolio from "../assets/Portfolio.PNG";
 import Dog from "../assets/dog.PNG";
+import Campground from "../assets/camp.PNG";
 
 export const ProjectList = [
     {
@@ -35,5 +36,13 @@ export const ProjectList = [
         skills: "Python, Flask, CSS, HTML, Sessions/Cookies",
         github: "https://replit.com/@ChrisWu989/RandomDog#main.py",
         demo: "https://randomdog.chriswu989.repl.co"
+    },
+    {
+        name: "YelpCamp",
+        image: Campground,
+        description: "Yelp Clone for Campgrounds",
+        skills: "HTML, CSS, NodeJS, MongoDB, ejs",
+        github: "https://github.com/ChrisWu989/YelpCamp",
+        demo: "https://yelpcamp-bc78.onrender.com"
     }
 ];
