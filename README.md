@@ -7,3 +7,4 @@
 > - ReactJS (Stat/Effect)
 > - JSX, HTML, CSS
 (React.js, JavaScript, HTML, CSS/Bootstrap, deployed with Netifly)
+ss
