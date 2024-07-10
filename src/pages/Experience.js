@@ -34,7 +34,7 @@ function Experience() {
 
         <VerticalTimelineElement 
           className="vertical-timeline-element--education"
-          date="2022 - present"
+          date="2022 - 2024"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
@@ -44,7 +44,7 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">
             Bachelor's of Science
           </h4>
-          <p>Mathematics-Computer Science, Graduation in May 2024</p>
+          <p>Mathematics-Computer Science</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>

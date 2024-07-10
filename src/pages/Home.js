@@ -11,7 +11,7 @@ function Home() {
         <h2>Hi, My Name is Chris</h2>
         <div className="prompt">
           <p>
-            Aspiring software engineer and student at UC San Diego.
+            Aspiring software engineer and recent graduate from UC San Diego.
           </p>
           <a href="https://www.linkedin.com/in/chriswu989/"> 
             <LinkedInIcon /> 
@@ -34,7 +34,7 @@ function Home() {
           <li className="item">
             <h2>Tech/Frameworks</h2>
             <span>
-              Git, VSCode, ReactJS, HTML, CSS, BootStrap, NodeJS, Bash, Django, Flask, Vim, Mathematica
+              Git, ExpressJS, ReactJS, HTML, CSS, BootStrap, Pandas, NumPy, NodeJS, Django, Flask, Mathematica, Figma, Docker, Postman
             </span>
           </li>
           <li className="item">
