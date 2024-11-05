@@ -29,12 +29,12 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript, Java, Python, C, C++</span>
+            <span>Python, Java, JavaScript, C, C++, SQL, HTML, CSS</span>
           </li>
           <li className="item">
-            <h2>Tech/Frameworks</h2>
+            <h2>Technologies /Frameworks</h2>
             <span>
-              Git, ExpressJS, ReactJS, HTML, CSS, BootStrap, Pandas, NumPy, NodeJS, Django, Flask, Mathematica, Figma, Docker, Postman
+              NodeJS, ExpressJS, ReactJS, MySQL, MongoDB, BootStrap, Django, Flask, Mathematica, Figma, Git, Docker, Postman
             </span>
           </li>
           <li className="item">
